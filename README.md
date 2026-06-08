@@ -102,6 +102,16 @@ I'm a **Senior System Analyst at PKLI&RC** (Pakistan Kidney & Liver Institute) �
 
 ---
 
+## 📊 GitHub
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=babar407&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ## 📂 Featured Repositories
 
 | Repo | Description |
