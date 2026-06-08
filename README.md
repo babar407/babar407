@@ -117,8 +117,8 @@ I'm a **Senior System Analyst at PKLI&RC** (Pakistan Kidney & Liver Institute) â
 
 <div align="center">
 
-![Babar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=babar407&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babar407&layout=compact&theme=dark&hide_border=true)
+![Babar's GitHub Stats](https://github-readme-stat-sable.vercel.app/api?username=babar407&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stat-sable.vercel.app/api/top-langs/?username=babar407&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
